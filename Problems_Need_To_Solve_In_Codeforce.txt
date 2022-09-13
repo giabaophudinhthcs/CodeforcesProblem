@@ -8,5 +8,5 @@ Difficulty: 800
 Difficulty: 900
 4) https://codeforces.com/problemset/problem/11/A
 Difficulty: 900
-5) https://codeforces.com/problemset/problem/12/A
+5) (Done) https://codeforces.com/problemset/problem/12/A
 Difficulty: 800
